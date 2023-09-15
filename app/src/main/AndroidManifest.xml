@@ -23,6 +23,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".ButtonActivity" />
+        <activity android:name=".TextFieldsActivity" />
+        <activity android:name=".TopAppBarActivity" />
+        <activity android:name=".BottomAppbarActivity" />
+        <activity android:name=".SnackbarActivity" />
+        <activity android:name=".BottomNativagionActivity" />
 
     </application>
 
